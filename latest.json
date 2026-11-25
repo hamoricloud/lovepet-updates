@@ -1,7 +1,7 @@
 {
-  "notes" : "마이크 클릭으로 켜기\/끄기, ON\/OFF 표시, 끊김 수정",
-  "sha256" : "e2399c0570dbdbf025a98b2e0d5b6b75e247d07d336cb9f7ae267e97be07b91b",
-  "sig" : "qkXjxrOB0PRWkqBneOvToaB2JMAdsdpMqzGLR7jpPYClyYLAt+b5c3rlFfqq\/vfZhlMYznscvQjXCjZXhOEFAA==",
-  "v" : 3,
-  "zip" : "LovePet-3.zip"
+  "notes" : "통화 모드, 마이크 바로 연결",
+  "sha256" : "bd06f26622daa182e0cfff54e4a090e936a187462826e3422c4193f821bced93",
+  "sig" : "tkN9HffJIgOE0hj3GNyzJbGulg94KaFGEJyD748h\/pUAHneOpoVyYADiti5eu33y2pDTCVGAiK4eOgnyrb\/ECg==",
+  "v" : 4,
+  "zip" : "LovePet-4.zip"
 }
