@@ -1,0 +1,27 @@
+# lovepet-updates 저장소에 들어가는 자동 발행 규칙.
+# latest.json 이 Push 되면 그 버전으로 GitHub 릴리스를 만들어 두 파일을 첨부한다.
+# 비밀 값 없음: 서명은 내 맥(release.sh)에서 끝난 상태로 올라온다. 앱이 서명·해시를 다시 검사한다.
+name: publish
+on:
+  push:
+    branches: [main]
+    paths: [latest.json]
+permissions:
+  contents: write   # 이 저장소에 릴리스 만들기만
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 릴리스 만들기
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          V="$(jq -r '.v' latest.json)"
+          [[ "$V" =~ ^[0-9]+$ ]] || { echo "버전 이상"; exit 1; }
+          ZIP="LovePet-$V.zip"
+          test -f "$ZIP"
+          if gh release view "v$V" >/dev/null 2>&1; then echo "v$V 이미 있음"; exit 0; fi
+          gh release create "v$V" "$ZIP" latest.json --title "러브펫 $V" \
+            --notes "$(jq -r '.notes // "업데이트"' latest.json)" --latest
