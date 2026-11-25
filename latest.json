@@ -1,7 +1,7 @@
 {
-  "notes" : "OFF 말풍선 클릭, 캐릭터만 야!, 효과음 크기, 야! 통일",
-  "sha256" : "f1dcdc07602fbd615371a6044f002f1ca802d6c90563a31d9a163686c71348ff",
-  "sig" : "j5V7OaD6YM4\/PilWPbQYXz41DyG5YHPKqn7c8a+nv1bNAqor4CDr8+\/6sj+9vr1Ji18bjtTld3geNzViaobDAw==",
-  "v" : 6,
-  "zip" : "LovePet-6.zip"
+  "notes" : "우리 일정 달력, 음질 향상, 사이트 아이콘, 마이크 안 꺼짐",
+  "sha256" : "4522378f3dcc7d9c499f6ab28d3572164c5d3562b8a5280f8a58df081112d1b1",
+  "sig" : "Ip7qs5x0TWiw11WxGBwi0X\/gNsua+2rx52\/K7weD3LuO5O6F9SzVjX1\/gEtVQCQvmmJGRfktaLS3pHPfQ37OAw==",
+  "v" : 8,
+  "zip" : "LovePet-8.zip"
 }
