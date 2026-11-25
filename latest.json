@@ -1,7 +1,7 @@
 {
-  "notes" : "우리 일정 달력, 음질 향상, 사이트 아이콘, 마이크 안 꺼짐",
-  "sha256" : "4522378f3dcc7d9c499f6ab28d3572164c5d3562b8a5280f8a58df081112d1b1",
-  "sig" : "Ip7qs5x0TWiw11WxGBwi0X\/gNsua+2rx52\/K7weD3LuO5O6F9SzVjX1\/gEtVQCQvmmJGRfktaLS3pHPfQ37OAw==",
-  "v" : 8,
-  "zip" : "LovePet-8.zip"
+  "notes" : "막대 조절, 유튜브 소리 안 줄게, 작은 모니터, 이름표 이동",
+  "sha256" : "72d14538dbaec19ec30352baedaf401303a350a64b0edd64beeb65c9f7e716e7",
+  "sig" : "whjdGMTm\/2vsTFSSD98Dm5YC1U2y3kriJnQafZsAOxdviPc6q4iDg2do+cdF725\/XcacIULlf9Meo8SDrIO3CQ==",
+  "v" : 9,
+  "zip" : "LovePet-9.zip"
 }

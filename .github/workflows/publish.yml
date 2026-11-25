@@ -3,6 +3,7 @@
 # 비밀 값 없음: 서명은 내 맥(release.sh)에서 끝난 상태로 올라온다. 앱이 서명·해시를 다시 검사한다.
 name: publish
 on:
+  workflow_dispatch:   # GitHub 오류로 자동 실행이 안 됐을 때: Actions → publish → Run workflow 로 다시 실행
   push:
     branches: [main]
     paths: [latest.json]
