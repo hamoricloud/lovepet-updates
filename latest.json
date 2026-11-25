@@ -1,7 +1,7 @@
 {
-  "notes" : "통화 모드, 마이크 바로 연결",
-  "sha256" : "bd06f26622daa182e0cfff54e4a090e936a187462826e3422c4193f821bced93",
-  "sig" : "tkN9HffJIgOE0hj3GNyzJbGulg94KaFGEJyD748h\/pUAHneOpoVyYADiti5eu33y2pDTCVGAiK4eOgnyrb\/ECg==",
-  "v" : 4,
-  "zip" : "LovePet-4.zip"
+  "notes" : "업데이트 확인 바로 되게",
+  "sha256" : "abe50565ad00cb2c931e794ebf97ff442e444336e0f0f176c89d49fe5de35088",
+  "sig" : "y0iJPKElOFO4jolZsB0qx8bM3jmipDbFeDyUQHbWiJ5E1sfd\/r3DzHgWSX7is\/aYP0n4cbPqZN\/Q8W3AZhxuDw==",
+  "v" : 5,
+  "zip" : "LovePet-5.zip"
 }
