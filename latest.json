@@ -1,7 +1,7 @@
 {
-  "notes" : "업데이트 확인 바로 되게",
-  "sha256" : "abe50565ad00cb2c931e794ebf97ff442e444336e0f0f176c89d49fe5de35088",
-  "sig" : "y0iJPKElOFO4jolZsB0qx8bM3jmipDbFeDyUQHbWiJ5E1sfd\/r3DzHgWSX7is\/aYP0n4cbPqZN\/Q8W3AZhxuDw==",
-  "v" : 5,
-  "zip" : "LovePet-5.zip"
+  "notes" : "OFF 말풍선 클릭, 캐릭터만 야!, 효과음 크기, 야! 통일",
+  "sha256" : "f1dcdc07602fbd615371a6044f002f1ca802d6c90563a31d9a163686c71348ff",
+  "sig" : "j5V7OaD6YM4\/PilWPbQYXz41DyG5YHPKqn7c8a+nv1bNAqor4CDr8+\/6sj+9vr1Ji18bjtTld3geNzViaobDAw==",
+  "v" : 6,
+  "zip" : "LovePet-6.zip"
 }
