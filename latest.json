@@ -1,7 +1,7 @@
 {
-  "notes" : "로고 선명하게, 앱 로고 원본으로, 낙서 색·지우개·굵기, 배터리 위치, 쓰담쓰담, 책상 배치",
-  "sha256" : "dcfc53aeef56bf8ebbfd80fa9d4901911b863011bb87c1ab4413dfc95d9ed13a",
-  "sig" : "50XZAWMjTSwluIo6fRjgbuxEQJAF05+mpzaAgPg0xMqqo1xwLIFXqODLuWlglUanh6nbzJ5WIuxnbyLkHql0CA==",
-  "v" : 15,
-  "zip" : "WYDBabe-15.zip"
+  "notes" : "버전 안내, 설치 방법 보강",
+  "sha256" : "d7ee9a944f1cf24a42646dff4432863fd8e189555673a973b5bd9caba0990d06",
+  "sig" : "2n6wqzphIcKHCIIqtWYG9MYLxH9U3z+wYX4PPn+azFYUmnXtEUPJ\/Lf4aA2QfEM6UTmkzur6c9SrqLe6StjxCA==",
+  "v" : 16,
+  "zip" : "WYDBabe-16.zip"
 }
