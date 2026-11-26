@@ -1,7 +1,7 @@
 {
-  "notes" : "이름을 자기모해로 변경, 책상 마이크, 큰 키보드, 또렷한 로고, 아이템 켜기\/끄기",
-  "sha256" : "c6a2f4e0d54db5202e4466896de6c6d069536a767f065393d13dfaab68866895",
-  "sig" : "\/h5k2I+I9bTWB0tqUSrQzwMXmoGcDu8lfw1lvEonCsGqKa+Uvkd9xxEk9YrolNx34qWw8IGPGKs+Yji5tKPeCA==",
-  "v" : 12,
-  "zip" : "WYDBabe-12.zip"
+  "notes" : "모니터 로고 크게, 낙서 색깔, 쓰담쓰담·모서리 잡기 개선",
+  "sha256" : "9648b2b6a7b4e4659500de7c92c2e090b236acb4e40d3ec54afc64a888ab0b99",
+  "sig" : "6SAwjexKqIpvbCdINz4Ih1E2y6gm8uElE1jk9B8S+ppnRE\/W6PL17P12kG7OnxTCuGLyEsILRgPa+JWgq4xaCA==",
+  "v" : 13,
+  "zip" : "WYDBabe-13.zip"
 }
