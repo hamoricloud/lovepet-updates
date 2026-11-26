@@ -24,5 +24,6 @@ jobs:
           ZIP="LovePet-$V.zip"
           test -f "$ZIP"
           if gh release view "v$V" >/dev/null 2>&1; then echo "v$V 이미 있음"; exit 0; fi
-          gh release create "v$V" "$ZIP" latest.json --title "러브펫 $V" \
+          cp "$ZIP" LovePet.zip   # 사이트 다운로드 버튼용 고정 이름 (…/releases/latest/download/LovePet.zip)
+          gh release create "v$V" "$ZIP" LovePet.zip latest.json --title "러브펫 $V" \
             --notes "$(jq -r '.notes // "업데이트"' latest.json)" --latest

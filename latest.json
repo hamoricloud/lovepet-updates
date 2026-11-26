@@ -1,7 +1,7 @@
 {
-  "notes" : "막대 조절, 유튜브 소리 안 줄게, 작은 모니터, 이름표 이동",
-  "sha256" : "72d14538dbaec19ec30352baedaf401303a350a64b0edd64beeb65c9f7e716e7",
-  "sig" : "whjdGMTm\/2vsTFSSD98Dm5YC1U2y3kriJnQafZsAOxdviPc6q4iDg2do+cdF725\/XcacIULlf9Meo8SDrIO3CQ==",
-  "v" : 9,
-  "zip" : "LovePet-9.zip"
+  "notes" : "책상 새 디자인, 귀 클릭 말하기, 액자, 메모지, 낙서, 같이 집중, 단축키, 통화 압축, 배터리",
+  "sha256" : "172b36596f81d5f5f0b97d44f7788af409927cc90f1c5e8c4631858ca15460b0",
+  "sig" : "uTifvQkbUIVcOF7KpKqB48KZczC4PN4\/wJLcUSjjqrIvD9b6VD+kYWZubnlWJhHKG78EQ1UqZSFj+5UEPHgNCQ==",
+  "v" : 10,
+  "zip" : "LovePet-10.zip"
 }
