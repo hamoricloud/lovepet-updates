@@ -1,7 +1,7 @@
 {
-  "notes" : "로고·배터리 선명하게, 낙서 색깔, 장신구, 기능 설정 메뉴",
-  "sha256" : "ef482802f8353a152e93ac5ae9c385bd35a5bf37ea600e5443be42133aa00684",
-  "sig" : "1WLWIkEIMlFIC7GvXX5NmEx6pzxv9vTLLnBI6oLVzOos1ooAvuFvRyLG\/KC0DCr6TUx1JBDpy2uy3eNMI7aIBg==",
-  "v" : 14,
-  "zip" : "WYDBabe-14.zip"
+  "notes" : "로고 선명하게, 앱 로고 원본으로, 낙서 색·지우개·굵기, 배터리 위치, 쓰담쓰담, 책상 배치",
+  "sha256" : "dcfc53aeef56bf8ebbfd80fa9d4901911b863011bb87c1ab4413dfc95d9ed13a",
+  "sig" : "50XZAWMjTSwluIo6fRjgbuxEQJAF05+mpzaAgPg0xMqqo1xwLIFXqODLuWlglUanh6nbzJ5WIuxnbyLkHql0CA==",
+  "v" : 15,
+  "zip" : "WYDBabe-15.zip"
 }
