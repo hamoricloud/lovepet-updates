@@ -1,7 +1,7 @@
 {
-  "notes" : "책상 새 디자인, 귀 클릭 말하기, 액자, 메모지, 낙서, 같이 집중, 단축키, 통화 압축, 배터리",
-  "sha256" : "172b36596f81d5f5f0b97d44f7788af409927cc90f1c5e8c4631858ca15460b0",
-  "sig" : "uTifvQkbUIVcOF7KpKqB48KZczC4PN4\/wJLcUSjjqrIvD9b6VD+kYWZubnlWJhHKG78EQ1UqZSFj+5UEPHgNCQ==",
-  "v" : 10,
-  "zip" : "LovePet-10.zip"
+  "notes" : "새 디자인, 메뉴 정리, 탁상시계 타이머, 같이 보는 메모지, 모서리로 크기 조절, 액자, 낙서, 통화 압축",
+  "sha256" : "536d5e3babaac920ccaafcc4a38837a308eedf2be54c7431b80091d136e1aafe",
+  "sig" : "16xerVyH8qXqo12uc4sBcpLpsDM3bthZg8xPYa3vU1eJV2\/8f7iNV6rf8YyJ8QPuMKBHMSy2UUXHjjai1PKmCw==",
+  "v" : 11,
+  "zip" : "LovePet-11.zip"
 }
