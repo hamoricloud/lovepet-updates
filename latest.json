@@ -1,7 +1,7 @@
 {
-  "notes" : "버전 안내, 설치 방법 보강",
-  "sha256" : "d7ee9a944f1cf24a42646dff4432863fd8e189555673a973b5bd9caba0990d06",
-  "sig" : "2n6wqzphIcKHCIIqtWYG9MYLxH9U3z+wYX4PPn+azFYUmnXtEUPJ\/Lf4aA2QfEM6UTmkzur6c9SrqLe6StjxCA==",
-  "v" : 16,
-  "zip" : "WYDBabe-16.zip"
+  "notes" : "정식 서명·공증, 버전 안내",
+  "sha256" : "1e5cd387aa7566e5eb7b30ae20a9ee168c47dd027e15e3294c908f109ea67015",
+  "sig" : "\/7UBF26in22VEf8MecsaPx\/o+eh5qKdc0Sc3\/4ve8UXBZPL8\/4+3fe9n6euQaLNvF5Ui2jndfcIeR+yvhS4eAg==",
+  "v" : 17,
+  "zip" : "WYDBabe-17.zip"
 }
