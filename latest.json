@@ -1,7 +1,7 @@
 {
-  "notes" : "새 디자인, 메뉴 정리, 탁상시계 타이머, 같이 보는 메모지, 모서리로 크기 조절, 액자, 낙서, 통화 압축",
-  "sha256" : "536d5e3babaac920ccaafcc4a38837a308eedf2be54c7431b80091d136e1aafe",
-  "sig" : "16xerVyH8qXqo12uc4sBcpLpsDM3bthZg8xPYa3vU1eJV2\/8f7iNV6rf8YyJ8QPuMKBHMSy2UUXHjjai1PKmCw==",
-  "v" : 11,
-  "zip" : "LovePet-11.zip"
+  "notes" : "이름을 자기모해로 변경, 책상 마이크, 큰 키보드, 또렷한 로고, 아이템 켜기\/끄기",
+  "sha256" : "c6a2f4e0d54db5202e4466896de6c6d069536a767f065393d13dfaab68866895",
+  "sig" : "\/h5k2I+I9bTWB0tqUSrQzwMXmoGcDu8lfw1lvEonCsGqKa+Uvkd9xxEk9YrolNx34qWw8IGPGKs+Yji5tKPeCA==",
+  "v" : 12,
+  "zip" : "WYDBabe-12.zip"
 }
