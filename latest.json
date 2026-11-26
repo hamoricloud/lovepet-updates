@@ -1,7 +1,7 @@
 {
-  "notes" : "모니터 로고 크게, 낙서 색깔, 쓰담쓰담·모서리 잡기 개선",
-  "sha256" : "9648b2b6a7b4e4659500de7c92c2e090b236acb4e40d3ec54afc64a888ab0b99",
-  "sig" : "6SAwjexKqIpvbCdINz4Ih1E2y6gm8uElE1jk9B8S+ppnRE\/W6PL17P12kG7OnxTCuGLyEsILRgPa+JWgq4xaCA==",
-  "v" : 13,
-  "zip" : "WYDBabe-13.zip"
+  "notes" : "로고·배터리 선명하게, 낙서 색깔, 장신구, 기능 설정 메뉴",
+  "sha256" : "ef482802f8353a152e93ac5ae9c385bd35a5bf37ea600e5443be42133aa00684",
+  "sig" : "1WLWIkEIMlFIC7GvXX5NmEx6pzxv9vTLLnBI6oLVzOos1ooAvuFvRyLG\/KC0DCr6TUx1JBDpy2uy3eNMI7aIBg==",
+  "v" : 14,
+  "zip" : "WYDBabe-14.zip"
 }
